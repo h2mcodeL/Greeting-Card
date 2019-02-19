@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirthdayApp</string>
+    <string name="msgTo">To: HELEN</string>
+    <string name="msgFrom">From: NANNY</string>
+    <string name="birthday_msg">HAPPY BIRTHDAY</string>
+    <string name="imgDesc">The background image for the birthday card</string>
+</resources>
